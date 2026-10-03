@@ -1,0 +1,13 @@
+# Compiled binaries / build output
+demo
+*.o
+*.out
+*.exe
+a.out
+build/
+
+# OS / editor cruft
+.DS_Store
+*~
+.vscode/
+.idea/
