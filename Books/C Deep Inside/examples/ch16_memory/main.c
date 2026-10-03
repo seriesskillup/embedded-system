@@ -1,4 +1,4 @@
-/* Deep C for Bare-Metal — Dynamic Memory Allocation (Chapter 16)
+/* C Deep Inside for Embedded System Development: Bare-Metal — Dynamic Memory Allocation (Chapter 16)
  *
  * Covers: the malloc/free discipline (check NULL, size from the object, NULL out
  * after free); the realloc-needs-a-temporary rule; and a fixed-block pool with

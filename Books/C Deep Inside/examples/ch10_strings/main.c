@@ -1,4 +1,4 @@
-/* Deep C for Bare-Metal — Strings (Chapter 10, runnable demo)
+/* C Deep Inside for Embedded System Development: Bare-Metal — Strings (Chapter 10, runnable demo)
  *
  * Covers: a string literal is a read-only char[] (writing it is undefined); a
  * char array is writable; sizeof includes the terminator while strlen does not;

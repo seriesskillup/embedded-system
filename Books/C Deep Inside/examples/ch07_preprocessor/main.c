@@ -1,4 +1,4 @@
-/* Deep C for Bare-Metal — The Preprocessor (Chapter 7, runnable demo)
+/* C Deep Inside for Embedded System Development: Bare-Metal — The Preprocessor (Chapter 7, runnable demo)
  *
  * Covers: text substitution and the missing-parentheses trap; multiple
  * evaluation of macro arguments with side effects; the do/while(0) idiom for a

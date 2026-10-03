@@ -1,4 +1,4 @@
-/* Deep C for Bare-Metal — Fundamentals (Chapters 1-3, runnable demo)
+/* C Deep Inside for Embedded System Development: Bare-Metal — Fundamentals (Chapters 1-3, runnable demo)
  *
  * Ch1 Declarations: where things live, zero-init vs indeterminate, static lifetime.
  * Ch2 Control:      switch fall-through, bounded loops, the assignment-in-if trap.

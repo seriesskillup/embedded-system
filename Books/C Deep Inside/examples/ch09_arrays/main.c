@@ -1,4 +1,4 @@
-/* Deep C for Bare-Metal — Chapter 9: Arrays (runnable demo)
+/* C Deep Inside for Embedded System Development: Bare-Metal — Chapter 9: Arrays (runnable demo)
  *
  * Covers the chapter's key points, each printed so you can see it:
  *   - array-to-pointer decay, and sizeof(array) vs sizeof(pointer)

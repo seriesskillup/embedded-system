@@ -1,4 +1,4 @@
-/* Deep C for Bare-Metal — Complicated Declarations (Chapter 18)
+/* C Deep Inside for Embedded System Development: Bare-Metal — Complicated Declarations (Chapter 18)
  *
  * Covers: the right-left rule on real forms; the parentheses that separate a
  * function returning a pointer from a pointer to a function; the three confused

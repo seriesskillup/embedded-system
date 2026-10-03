@@ -1,4 +1,4 @@
-/* Deep C for Bare-Metal — Variable Number of Arguments (Chapter 17)
+/* C Deep Inside for Embedded System Development: Bare-Metal — Variable Number of Arguments (Chapter 17)
  *
  * Covers: the <stdarg.h> mechanics; the default argument promotions (read
  * integers as int, floating point as double); the count being the only bound;

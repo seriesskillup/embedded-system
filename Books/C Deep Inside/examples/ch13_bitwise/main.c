@@ -1,4 +1,4 @@
-/* Deep C for Bare-Metal — Bitwise Operators (Chapter 13)
+/* C Deep Inside for Embedded System Development: Bare-Metal — Bitwise Operators (Chapter 13)
  *
  * Covers: set / clear / toggle / test a bit; extract a multi-bit field with
  * mask-and-shift; insert a field (clear then OR the value in position); the

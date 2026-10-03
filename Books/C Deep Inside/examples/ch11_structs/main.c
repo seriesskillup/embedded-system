@@ -1,4 +1,4 @@
-/* Deep C for Bare-Metal — Structures, Unions, Enumerations (Chapter 11)
+/* C Deep Inside for Embedded System Development: Bare-Metal — Structures, Unions, Enumerations (Chapter 11)
  *
  * Covers: padding and alignment (why sizeof is bigger than the sum of fields);
  * a packed struct; a union used to inspect the bytes of a value; byte order

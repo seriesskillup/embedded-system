@@ -1,4 +1,4 @@
-/* Deep C for Bare-Metal — Chapter 8: Pointers, volatile, and memory-mapped I/O
+/* C Deep Inside for Embedded System Development: Bare-Metal — Chapter 8: Pointers, volatile, and memory-mapped I/O
  * (runnable demo with SIMULATED registers)
  *
  * On a real microcontroller a peripheral register lives at a fixed address on

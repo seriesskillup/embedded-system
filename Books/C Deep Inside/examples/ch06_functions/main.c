@@ -1,4 +1,4 @@
-/* Deep C for Bare-Metal — Functions (Chapter 6, runnable demo)
+/* C Deep Inside for Embedded System Development: Bare-Metal — Functions (Chapter 6, runnable demo)
  *
  * Covers: the call stack and recursion depth (each call costs a frame);
  * reentrancy (a static inside a function breaks it, a local keeps it safe);

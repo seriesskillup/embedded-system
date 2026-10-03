@@ -1,4 +1,4 @@
-/* Deep C for Bare-Metal — Numbers on MCUs (Chapters 4-5, runnable demo)
+/* C Deep Inside for Embedded System Development: Bare-Metal — Numbers on MCUs (Chapters 4-5, runnable demo)
  *
  * Ch4 Integers: promotion to int, signed/unsigned comparison, unsigned wraparound,
  *               truncation when you store back into a narrow type.

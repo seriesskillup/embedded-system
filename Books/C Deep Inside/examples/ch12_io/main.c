@@ -1,4 +1,4 @@
-/* Deep C for Bare-Metal — Input / Output (Chapter 12)
+/* C Deep Inside for Embedded System Development: Bare-Metal — Input / Output (Chapter 12)
  *
  * Covers: printf turns a value into TEXT bytes (not the raw value); the same
  * value under different specifiers; the length modifier changing the argument

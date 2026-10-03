@@ -1,4 +1,4 @@
-/* Deep C for Bare-Metal — Library Functions (Chapter 19)
+/* C Deep Inside for Embedded System Development: Bare-Metal — Library Functions (Chapter 19)
  *
  * Covers: memmove for overlapping regions (memcpy is undefined there); why
  * memcmp is a poor struct comparison (it includes padding bytes); a bounded

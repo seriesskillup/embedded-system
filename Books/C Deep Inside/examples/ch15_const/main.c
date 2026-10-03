@@ -1,4 +1,4 @@
-/* Deep C for Bare-Metal — const & Read-only Data (Chapter 15)
+/* C Deep Inside for Embedded System Development: Bare-Metal — const & Read-only Data (Chapter 15)
  *
  * Covers: the four const-pointer forms and which part each locks;
  * const-correctness across an API (a reader takes const, so a flash table needs

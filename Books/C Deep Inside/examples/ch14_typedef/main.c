@@ -1,4 +1,4 @@
-/* Deep C for Bare-Metal — typedef (Chapter 14)
+/* C Deep Inside for Embedded System Development: Bare-Metal — typedef (Chapter 14)
  *
  * Covers: the typedef-vs-#define pointer trap; naming a function-pointer type;
  * and the opaque-handle pattern (a typedef'd pointer to an incomplete struct,
