@@ -1,4 +1,4 @@
-# Deep C for Bare-Metal — Runnable Examples
+# C Deep inside for Bare-Metal — Runnable Examples
 
 One self-contained project per chapter. Each `chNN_topic/` folder holds a
 commented `main.c` (multiple files only where multi-file *is* the lesson) that
